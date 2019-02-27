@@ -1,4 +1,6 @@
-**Download/Clone and run example.php**
+**Download/Clone and run:**
 
-Result will be:
-![Result Image](https://raw.githubusercontent.com/gluebag/TeleAPISMSCountBug/master/example_result.png)
+`php example.php`
+
+Result will be:<br />
+![Result Image](example_result.png?raw=true)
